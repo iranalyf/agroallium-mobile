@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c85c4266bd12538dac55cf3593a282c3426950d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eae9d5b8dd17a5852e9b883cf176474c1d05579d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/df63c7ea08a8ac07ec906faacf62c99035183b8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50e24550501bb294b0c649436ee5318878fa3f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57761ec395861e6faa123a791a86982df6884cc5">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_deb04230652f990bb27e11d721eb607e74526e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e5ac9dfcf0e00a56d023be615e1c2430ba96ea30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2f60887a8b616796032b3a6e41d22ba07d947e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e7681106182708913c6593a74087e87a58912c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5555ce72fb298625f2e8c79a454677fb9bd5fa3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f155f5a808c45cf9ffda03a15016365fadc10da5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/47544c86769515a42081019938d29eafa0743559/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c1a59ab397f7ec6529d3ac4aaf3dcd36b335697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bd192d1f04c13b4a20adbffdfc28ce96561fc8c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_582ce8d069204b52c33b780beaf97e263c5aaabe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7987d68e12f0c715a34387c0b172d9d76128fe1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d16bbccd153937a84f64642db999115827387be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bee3d8c838cfd3215480f5254fb06ea4ebb22a27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02fb6ddab52b16ef86c108f47d32b96032015268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7bd6fc8eb1c7fc4e4cd1dfdb0e16163cb7a0d093/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a189acdbdd2792fcdeb0576c64f6d7fb33d85a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d39ffea215222331f25a5be7c74381c7ede3fb00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f67a1872807d897f445da471c9ad78201592539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ba268c960b569dac2341f2e80e5b61c4d0873116/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e45856c38294c2640e74d75ded1cb8ef58fe39cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/72bb4595531f86d837855d9acd023cd491b4643d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f09415da5a12289c3c91e69b60253c658a5b295d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/alyfiran/Downloads/AgroAllium/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e4bfc90b9b60686c39e996920979dac39bd15ce0/classes.dex" />
+    </item>
+
+</items>
